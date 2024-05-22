@@ -1,5 +1,9 @@
 Template for the Read the Docs tutorial
 =======================================
+## Table of Contents
+
+- [Get-IPInfoLookup](Get-IPInfoLookup.md)
+- [Get-IPAddress](Get-IPAddress.md)
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
